@@ -1,0 +1,13 @@
+file,File ID,peran,Description,fs_asli,durasi_s,fs_target
+A3-pvdfrw1.wav,A.3,hama gudang,"Sitophilus oryzae larvae (17-18 d old) in wheat kernels [489 kB, 10 s] recorded with PVDF film sensor",25000,10.0,20000
+A4-accelrw.wav,A.4,hama gudang,"Sitophilus oryzae larvae (16-17 d old) in wheat kernels [489 kB, 10 s] recorded with Bruel and Kjaer accelerometer",25000,10.0,20000
+A5-w40khzrw1.wav,A.5,hama gudang,"Sitophilus oryzae larvae (16-17 d old) in wheat kernels [489 kB, 10 s] recorded with 40 kHz ultrasonic sensor",50000,10.0,20000
+A6-w30khzrw1.wav,A.6,hama gudang,"Sitophilus oryzae larvae (17-18 d old) in wheat kernels [977 kB, 10 s] recorded with 30 kHz ultrasonic sensor",50000,10.0,20000
+A7-piezorw1.wav,A.7,hama gudang,"Sitophilus oryzae larvae (16-17 d old) in wheat kernels [977 kB, 10 s] recorded with piezoelectric disk sensor",25000,10.0,20000
+A8-sz-lm3r1_f3-0s.wav,A.8,hama gudang,"Sitophilus zeamais larvae in maize [817 kB, 11 s] recorded with microphone",20000,20.91,20000
+A9-sza-mar1f5-0s.wav,A.9,hama gudang,"Sitophilus zeamais adults in maize [731 kB, 10 s] recorded with microphone",20000,18.7,20000
+A10-ptr-l-m4r2f4-2s.wav,A.10,hama gudang,"Prostephanus truncatus larvae in maize [727 kB, 10 s] recorded with microphone",20000,18.59,20000
+A11-ptr_adu1-72s.wav,A.11,hama gudang,"Prostephanus truncatus adults in maize [822 kB, 11 s] recorded with microphone",20000,21.04,20000
+I2-planeau2.wav,I.2,noise,"Insect sounds mixed with plane noise, shorter segment of I.1. [733 kB ,15 s]",25000,15.0,20000
+I3-monrbck1.wav,I.3,noise,"Plane noise recorded with accelerometer on nail inside a pot at the Monrovia nursery, Dayton, OR. [733 kB, 15 s]",25000,15.0,20000
+I4-monrbck2.wav,I.4,noise,"Plane and truck noise at commercial nursery.  (See I.3). [733 kB, 15 s]",25000,15.0,20000
